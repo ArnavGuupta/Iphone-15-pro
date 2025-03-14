@@ -1,5 +1,3 @@
-Here's your beautifully formatted README with the image included:  
-
 ---
 
 # Apple Model Viewer - React Three.js App  
@@ -28,7 +26,6 @@ This project is a **3D Apple Model Viewer** built using **React, Three.js (@reac
 - **Three.js (@react-three/fiber)** → 3D model rendering  
 - **GSAP** → Animations  
 - **Tailwind CSS** → Styling  
-- **Sentry** → Error monitoring & performance tracking  
 
 ---
 
